@@ -4,6 +4,8 @@
 I am an experienced full-stack developer with over 5 years of expertise in web and mobile application development, cloud solutions (AWS, Digital Ocean), web services, and microservices architecture. My focus is on building robust, scalable, and efficient solutions that meet client requirements and exceed expectations. I specialize in both backend and frontend development, ensuring a seamless experience from design to deployment. I’m proficient in building modern, user-centric applications and have a deep understanding of various frontend frameworks, responsive design techniques, and best coding practices. Whether it’s a simple website or a complex mobile application, I deliver quality work on time.
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HammadKhadimHussain&label=Profile%20views&color=0e75b6&style=flat" alt="HammadKhadimHussain" /> </p>
+
 ## 🌐 Connect With Me:
 <p align="left">
 <a href="https://twitter.com/hammadhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadHussain" height="30" width="40" /></a>
@@ -25,5 +27,6 @@ I am an experienced full-stack developer with over 5 years of expertise in web a
     </td>
   </tr>
 </table>
+
 
 
