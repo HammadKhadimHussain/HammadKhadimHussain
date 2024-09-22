@@ -1,4 +1,6 @@
-![logo](https://i.gifer.com/76cI.gif)
+<p align="center">
+  <img src="https://i.gifer.com/76cI.gif" alt="logo" />
+</p>
 # 💫 About Me:
 I am an experienced full-stack developer with over 5 years of expertise in web and mobile application development, cloud solutions (AWS, Digital Ocean), web services, and microservices architecture. My focus is on building robust, scalable, and efficient solutions that meet client requirements and exceed expectations. I specialize in both backend and frontend development, ensuring a seamless experience from design to deployment. I’m proficient in building modern, user-centric applications and have a deep understanding of various frontend frameworks, responsive design techniques, and best coding practices. Whether it’s a simple website or a complex mobile application, I deliver quality work on time.
 
