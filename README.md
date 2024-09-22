@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.gifer.com/76cI.gif" alt="logo" style="width: 100%; max-width: 600px;" />
-</p>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 
 # 💫 About Me:
 I am an experienced full-stack developer with over 5 years of expertise in web and mobile application development, cloud solutions (AWS, Digital Ocean), web services, and microservices architecture. My focus is on building robust, scalable, and efficient solutions that meet client requirements and exceed expectations. I specialize in both backend and frontend development, ensuring a seamless experience from design to deployment. I’m proficient in building modern, user-centric applications and have a deep understanding of various frontend frameworks, responsive design techniques, and best coding practices. Whether it’s a simple website or a complex mobile application, I deliver quality work on time.
@@ -8,10 +6,10 @@ I am an experienced full-stack developer with over 5 years of expertise in web a
 
 ## 🌐 Connect With Me:
 <p align="left">
-<a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+<a href="https://twitter.com/hammadhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammadHussain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hammadhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hammadhussain" height="30" width="40" /></a>
+<a href="https://instagram.com/hammadhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammadhussain" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/hammadhussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hammadhussain" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
