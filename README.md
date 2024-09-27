@@ -28,10 +28,5 @@ I am an experienced full-stack developer with over 5 years of expertise in web a
   </tr>
 </table>
 
-## Repository Count
-
-![Public Repositories](1)
-![Private Repositories](3)
-![Total Repositories](4)
 
 
