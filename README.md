@@ -33,5 +33,5 @@ I am an experienced full-stack developer with over 5 years of expertise in web a
 
 
 ![Public Repositories](https://img.shields.io/badge/Public%20Repositories-2-blue)
-![Private Repositories](https://img.shields.io/badge/Public%20Repositories-20-blue)
+![Private Repositories](https://img.shields.io/badge/Private%20Repositories-20-blue)
 
