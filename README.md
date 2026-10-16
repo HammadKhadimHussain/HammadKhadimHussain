@@ -34,26 +34,7 @@ Senior **Full Stack Developer** with **5+ years** of experience building web app
 
 ---
 
-## 💼 Experience
 
-**Senior Full Stack Developer — Pixelz360** *(Aug 2023 – Present)*
-- Own CRM and ERP development; moved systems to modular monolith and microservices, **doubling performance**
-- Planned architecture and deployed on AWS with Docker, NGINX, SSL, DNS and Cloudflare, **improving load speed by 20%**
-- Set up CI/CD pipelines, **cutting deployment time by 40%**
-- Built AI chatbots (website and Discord) with the OpenAI API, reducing manual support work
-- Built .NET desktop systems, WordPress/WooCommerce/Shopify sites, and the **LeadX Forms** plugin with a Vue.js portal
-
-**Software Engineer — Cubix** *(May 2022 – Jul 2023)*
-- Built **ProTrade ERP** in Laravel: **+20% inventory accuracy**, **-35% order time**
-- Built a streaming **RAG chatbot** in Node.js with the OpenAI API
-- Connected IoT devices to backend services using MQTT
-
-**Laravel/PHP Developer — EvantageSoft** *(Feb 2021 – Apr 2022)*
-- Integrated payment gateways and third-party APIs: **+20% transaction efficiency**
-- Introduced **RabbitMQ**, **reducing latency by 40%**
-- Improved REST APIs with the Flutter team, making responses **30% faster**
-
----
 
 ## 🚀 Featured Projects
 
@@ -70,7 +51,7 @@ Senior **Full Stack Developer** with **5+ years** of experience building web app
 | **C-Link** | Construction procurement platform |
 | **Lokal.pk** | Hotel booking system with website, portal, vendor and inventory |
 
-> 🔗 More work and case studies: **[hammadkhadimhussain.github.io/portfolio](https://hammadkhadimhussain.github.io/portfolio/)**
+
 
 ---
 
@@ -136,12 +117,7 @@ Senior **Full Stack Developer** with **5+ years** of experience building web app
 
 ---
 
-## 🎓 Education
 
-- **Bachelor of Computer Science** — Iqra University (2021 – 2025)
-- **ACCP Pro** — Aptech Learning Center (2020 – 2023)
-
----
 
 ## 🌐 Let's Connect
 
