@@ -131,16 +131,6 @@ Senior **Full Stack Developer** with **5+ years** of experience building web app
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=HammadKhadimHussain&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadKhadimHussain&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HammadKhadimHussain&theme=tokyonight&hide_border=true" alt="Streak" />
-
-</div>
 
 > 🔒 Most of my client work (20+ repositories) is private.
 
